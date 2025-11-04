@@ -15,7 +15,9 @@ const App = () => {
       <div className="text-[25px] bg-blue-500 m-10 p-10 font-serif">
         {hello}
       </div>
-      <HelloWorld />
+      <HelloWorld text="inii adalah hello 2" />
+      <HelloWorld text="inii adalah hello 2" />
+      <button className="bg-blue-500 hover:bg-blue-700 oy-4 px-4 rounded-xl text-white"></button>
     </>
   );
 };
