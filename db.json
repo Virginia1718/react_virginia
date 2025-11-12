@@ -1,0 +1,82 @@
+{
+  "users": [
+    {
+      "picture": "latar putih.jpg",
+      "nim": "105022410049",
+      "nama": "Virginia Rugian",
+      "ttl": "Kotamobagu, 18 November 2006",
+      "umur": 18,
+      "agama": "Kristen",
+
+      "status": "Belum Menikah",
+      "kewarganegaraan": "Indonesia",
+
+      "jenis_kelamin": "Perempuan",
+      "tinggi_badan": "164 cm",
+      "golongan_darah": "-",
+      "moto_hidup": "Belajar adalah perjalanan tanpa akhir",
+
+      "kontak": {
+        "email": "12410231@student.unklab.ac.id",
+        "telepon": "085823325975",
+        "alamat_rumah": "Desa Mondatong Baru, Sulawesi Utara"
+      },
+
+      "pendidikan": [
+        {
+          "jenjang": "SD",
+          "sekolah": "SD Negeri 1 Nanasi",
+          "tahun_lulus": 2018
+        },
+        {
+          "jenjang": "SMP",
+          "sekolah": "SMP Negeri 1 Sinonsayang",
+          "tahun_lulus": 2021
+        },
+        {
+          "jenjang": "SMA",
+          "sekolah": "SMA Negeri 1 Poigar",
+          "tahun_lulus": 2024,
+          "jurusan": "IPA"
+        },
+        {
+          "jenjang": "Universitas",
+          "kampus": "Universitas Klabat",
+          "fakultas": "Ilmu Komputer",
+          "program_studi": "Informatika",
+          "angkatan": 2024,
+          "tingkat":2
+        }
+      ],
+
+      "soft_skills": [
+        "Communication",
+        "Problem Solving",
+        "Manajemen Waktu",
+        "Team Collaboration"
+      ],
+
+      "hobi": [
+        "Belajar coding",
+        "Travelling",
+        "Memasak"
+      ]
+    }
+  ],
+
+  "posts": [
+    { "id": "1", "title": "Data Pribadi", "views": 100 },
+    { "id": "2", "title": "Latar Belakang Pendidikan", "views": 20 },
+    { "id": "3", "title": "Keahlian & Portofolio", "views": 10 }
+  ],
+
+  "comments": [
+    { "id": "1", "text": "Ini adalah data Virginia dengan ID 1", "postId": "1" },
+    { "id": "2", "text": "Informasi tentang Fakultas Komputer", "postId": "2" },
+    { "id": "3", "text": "Skill yang sangat bagus!", "postId": "3" }
+  ],
+
+  "profile": {
+    "name": "Virginia Biodata"
+  }
+}
